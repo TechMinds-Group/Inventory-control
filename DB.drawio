@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T23:01:49.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="Wer3FoeI1iTDf6WiGxcl" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T23:02:02.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="MP8dQcmXILrhj6-2_zp-" version="22.0.6" type="github">
   <diagram name="Página-1" id="oI9TYDiOCawssJ5pB_Mc">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
             <mxRectangle width="30" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u429zlxLRRn3Ip08pNfd-13" value="Name: varchar(50)&lt;br&gt;Type: enum&lt;br&gt;TaxId: varchar(20)&lt;br&gt;Address: varchar(100)&lt;br&gt;City: varchar(100)&lt;br&gt;State: varchar(50)&lt;br&gt;ZipCode: varchar(15)&lt;br&gt;PhoneNumber1: varchar(15)&lt;br&gt;PhoneNumber2: varchar(15)&lt;br&gt;Email: varchar(150)&lt;br&gt;Website: varchar(150)&lt;br&gt;ContactName1: varchar(50)&lt;br&gt;Contact1PhoneNumber: varchar(15)&lt;br&gt;ContactName2: varchar(50)&lt;br&gt;Contact2PhoneNumber: varchar(15)&lt;br&gt;Description: varchar(300)&lt;br&gt;BankInformation: varchar(200)&lt;br&gt;PerformanceRating: float&lt;br&gt;Active: bool" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="u429zlxLRRn3Ip08pNfd-11" vertex="1">
+        <mxCell id="u429zlxLRRn3Ip08pNfd-13" value="Name: varchar(50)&lt;br&gt;Type: enum&lt;br&gt;TaxId: varchar(20)&lt;br&gt;Address: varchar(100)&lt;br&gt;City: varchar(100)&lt;br&gt;State: varchar(100)&lt;br&gt;ZipCode: varchar(15)&lt;br&gt;PhoneNumber1: varchar(15)&lt;br&gt;PhoneNumber2: varchar(15)&lt;br&gt;Email: varchar(150)&lt;br&gt;Website: varchar(150)&lt;br&gt;ContactName1: varchar(50)&lt;br&gt;Contact1PhoneNumber: varchar(15)&lt;br&gt;ContactName2: varchar(50)&lt;br&gt;Contact2PhoneNumber: varchar(15)&lt;br&gt;Description: varchar(300)&lt;br&gt;BankInformation: varchar(200)&lt;br&gt;PerformanceRating: float&lt;br&gt;Active: bool" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="u429zlxLRRn3Ip08pNfd-11" vertex="1">
           <mxGeometry x="30" width="217" height="290" as="geometry">
             <mxRectangle width="217" height="290" as="alternateBounds" />
           </mxGeometry>
